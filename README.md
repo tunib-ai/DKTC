@@ -24,7 +24,7 @@
 |Data scientist|ML engineer|Software engineer|Software engineer|Research Scientist|  
 |:----:|:---:|:-----:|:---:|:-----:|    
 |<img src="members/sophia.png" width=150>|<img src="members/patrick.png" width=150>|<img src="members/ryu.png" width=150>|<img src="members/billie.png" width=150>|<img src="members/ryan.png" width=150>|  
-|**[Soyoung Cho 조소영](https://github.com/SoYoungCho)**|**[Sangchun Ha 하상천](https://github.com/upskyy/upskyy)**|**[Myeonghyeon Ryu 류명현](https://github.com/ryubright)**|**[Bitna Keum 금빛나](https://github.com/BitnaKeum)**|**[Kyubyong Park 박규병](https://github.com/Kyubyong)**|
+|**[Soyoung Cho <br> 조소영](https://github.com/SoYoungCho)**|**[Sangchun Ha <br> 하상천](https://github.com/upskyy/upskyy)**|**[Myeonghyeon Ryu <br> 류명현](https://github.com/ryubright)**|**[Bitna Keum <br> 금빛나](https://github.com/BitnaKeum)**|**[Kyubyong Park <br> 박규병](https://github.com/Kyubyong)**|
   
 ## License
   
