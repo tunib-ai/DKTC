@@ -6,7 +6,7 @@
     
 ## Quick peek
   
-![image](https://user-images.githubusercontent.com/42150335/148638684-d176723b-5382-469b-847c-36047dccc3ef.png)
+![image](https://user-images.githubusercontent.com/42150335/149441163-7728a543-5dbd-4fb6-b12f-cae5fc79c6fe.png)
       
 ## Basic Statistics
  
